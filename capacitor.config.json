@@ -1,0 +1,6 @@
+{
+  "appId": "com.cahierdeclasse.app",
+  "appName": "Cahier de classe",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
